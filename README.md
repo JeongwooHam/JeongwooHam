@@ -3,7 +3,7 @@
 🌱 Learning for <b>Front-end development</b> is now in progress.
 
 
-📫 How to reach me: hamjw0122@naver.com
+📫 How to reach me: hamjw0122@gmail.com
 
 
 🗂️ Study Log: https://blog.naver.com/hamjw0122
