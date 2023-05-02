@@ -6,7 +6,10 @@
 📫 How to reach me: hamjw0122@gmail.com
 
 
-🗂️ Study Log: https://blog.naver.com/hamjw0122
+🗂️ Study Log
+- https://blog.naver.com/hamjw0122
+- https://gentle-tin-2c4.notion.site/React-e03f3c8d28bb4a809aef68c59e6bdb25
+- https://velog.io/@hamjw0122
 
 <br>
 <br>
