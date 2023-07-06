@@ -6,11 +6,6 @@
 📫 How to reach me: hamjw0122@gmail.com
 
 
-🗂️ Study Log
-- https://blog.naver.com/hamjw0122
-<br>
-<br>
-
 ## 📍Skills
 <b>[Studying]</b> <br>
 
